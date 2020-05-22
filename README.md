@@ -7,6 +7,4 @@ I think it is useful for people, it can be used to count sheeps, your workout re
 Budget for this project is 0$, except the electricity and time spent)
 No partners were involved in the process.
 https://github.com/baimurattmf/GreeterNeobis/issues/3#issue-623149189
-![Снимок экрана (6)](https://user-images.githubusercontent.com/44253434/82664239-16629700-9c53-11ea-87fd-75406c4ad8ce.png)
-![WhatsApp Image 2020-05-22 at 5 11 57 PM (1)](https://user-images.githubusercontent.com/44253434/82664252-1febff00-9c53-11ea-9cc8-dc859dc82404.jpeg)
-![WhatsApp Image 2020-05-22 at 5 11 57 PM](https://user-images.githubusercontent.com/44253434/82664263-28dcd080-9c53-11ea-9b3d-49c950ce9ae6.jpeg)
+
