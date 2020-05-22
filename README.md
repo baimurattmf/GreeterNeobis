@@ -6,4 +6,6 @@ Counter starts from 0 every time you press the count button it increases by 1.
 I think it is useful for people, it can be used to count sheeps, your workout reps etc.
 Budget for this project is 0$, except the electricity and time spent)
 No partners were involved in the process.
+https://github.com/baimurattmf/GreeterNeobis/issues/2#issue-623141644
+https://github.com/baimurattmf/GreeterNeobis/issues/1#issue-623137688
 
